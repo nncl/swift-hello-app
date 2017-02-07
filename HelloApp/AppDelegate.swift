@@ -1,6 +1,7 @@
 //
 //  AppDelegate.swift
 //  HelloApp
+//  Classe que informa coisas que vêm do SO
 //
 //  Created by Usuário Convidado on 06/02/17.
 //  Copyright © 2017 FIAP. All rights reserved.
